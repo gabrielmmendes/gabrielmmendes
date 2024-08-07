@@ -3,7 +3,7 @@
 [<img alt="Meu linkedin" width="40px" src="https://github.com/gabrielmmendes/gabrielmmendes/blob/main/assets/linkedin.jpeg">](https://www.linkedin.com/in/gabriel-mendes-937a341b2/)
 [<img alt="Meu gmail" width="40px" src="https://github.com/gabrielmmendes/gabrielmmendes/blob/main/assets/gmail-icon-1024x1024-09wrt8am.png">](mailto:gabrielmatos@discente.ufg.br)
 
-## Sou desenvolvedor back-end e atualmente estour cursando Engenharia de Software pela Universidade Federal de Goiás.
+## Sou desenvolvedor back-end e atualmente estou cursando Engenharia de Software pela Universidade Federal de Goiás.
 [![My Skills](https://skillicons.dev/icons?i=java,nodejs,js,angular,go,html,css,postgres)](https://skillicons.dev)
 
 <div>
