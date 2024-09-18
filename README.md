@@ -4,7 +4,7 @@
 [<img alt="Meu gmail" width="40px" src="https://github.com/gabrielmmendes/gabrielmmendes/blob/main/assets/gmail-icon-1024x1024-09wrt8am.png">](mailto:gabrielmatos@discente.ufg.br)
 
 ## Sou desenvolvedor back-end e atualmente estou cursando Engenharia de Software pela Universidade Federal de Goiás.
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,js,angular,go,html,css,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,java,nodejs,typescript,go,js,angular,html,css)](https://skillicons.dev)
 
 <div>
 <a href="https://github.com/gabrielmmendes">
